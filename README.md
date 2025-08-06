@@ -1,4 +1,4 @@
-# Power BI Dashboards Repository
+# Power BI Dashboard Repository
 
 Welcome to my Power BI Dashboards Repository!  
 This repository contains a Power BI project with interactive reports, insightful visualizations, and a real-world dataset. The dashboard is designed for business intelligence analysis, performance monitoring, and data-driven decision-making.
