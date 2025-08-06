@@ -44,8 +44,10 @@ A visually interactive dashboard created using the Superstore Sales dataset. Thi
 - Sales and Profit distribution by U.S. States (Map View)
 
 **Screenshots:**
-![Dashboard Overview](dashboard_overview.png)  
-![Sales Forecast](sales_forecast.png)
+
+- [Click here to view Dashboard Overview](dashboard_overview.png)
+- [Click here to view Sales Forecast](sales_forecast.png)
+
 
 
 ---
